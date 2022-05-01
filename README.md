@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Khanh! 👋</h1>
 
 
-<h3 style="color: blue; border-bottom: none">I'm a software engineer, CSS artist, UI/UX designer and content creator from Vietnam!</h3>
+<h3 style="color: blue; border-bottom: none">I'm a software engineer at @100Devs, CSS artist, UI/UX designer and content creator from Vietnam!</h3>
 
 <div>&nbsp;</div>
 
