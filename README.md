@@ -3,7 +3,7 @@
 
 <h3 style="color: blue; border-bottom: none">I'm a software engineer, CSS artist, UI/UX designer and content creator from Vietnam!</h3>
 
-<p>&nbsp;</p>
+<div>&nbsp;</div>
 
 <div><b>Facts about me:</b></div>
 <div>😄 Pronouns: he/him, they/them</li>
