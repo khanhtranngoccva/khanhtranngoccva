@@ -22,6 +22,11 @@
 </div>
 <div>💻 Currently contributing to XollabOS/talktonetechnology</div>
 
+
+<p>&nbsp;</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=khanhtranngoccva">
+
 <!--
 **khanhtranngoccva/khanhtranngoccva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,15 +42,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
+<!-- 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=khanhtranngoccva"></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtranngoccva"></td>
+    <td width="80%"></td>
+    <td width="20%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtranngoccva"></td>
   </tr>
 </table>
-
+ -->
 
 <iframe src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/creeper.svg">
