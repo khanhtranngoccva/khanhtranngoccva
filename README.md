@@ -19,7 +19,7 @@
   </div>
 </div>
 <div>✏️ Passionate about drawing CSS art and helping others</div>
-<div>💻 Currently contributing to XollabOS/talktonetechnology</div>
+<div>💻 Currently contributing to XollabOS/talktometechnology</div>
 
 
 <p>&nbsp;</p>
