@@ -3,11 +3,9 @@
 
 <h3 style="color: blue; border-bottom: none">I'm a software engineer, CSS artist, UI/UX designer and content creator from Vietnam!</h3>
 
-
-
-
 <p>&nbsp;</p>
-<h4>Facts about me:</h4>
+
+<div><b>Facts about me:</b></div>
 <div>😄 Pronouns: he/him, they/them</li>
 <div>🌱 Currently learning: Frontend HTML/CSS/JS and Python</li>
 <div>⚔️ Codewars stats: 3 kyu on Python, 4 kyu on JS</li>
@@ -20,6 +18,7 @@
     <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✏️ CodePen: codepen.io/khanhtranngoccva</div>
   </div>
 </div>
+<div>✏️ Passionate about drawing CSS art and helping others</div>
 <div>💻 Currently contributing to XollabOS/talktonetechnology</div>
 
 
@@ -27,28 +26,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=khanhtranngoccva">
 
-<!--
-**khanhtranngoccva/khanhtranngoccva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 
-<table>
-  <tr>
-    <td width="80%"></td>
-    <td width="20%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtranngoccva"></td>
-  </tr>
-</table>
- -->
-
-<iframe src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/creeper.svg">
