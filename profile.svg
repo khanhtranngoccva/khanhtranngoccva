@@ -1,20 +1,5 @@
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-        <!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="icon" href="img/icon-sm.jpg">
-    <link rel="stylesheet" href="fonts/fonts.css">
-    <link rel="stylesheet" href="css/app.css">
-    <link rel="stylesheet" href="css/theme.css">
-    <link rel="stylesheet" href="css/bonus.css">
-    <title>Khanh Tran's Portfolio</title>
-</head>
-<body>
 <main class="glassMorphism">
     <header>
         <nav class="desktopNav">
@@ -288,10 +273,5 @@
         </ul>
     </nav>
 </div>
-<footer>
-
-</footer>
-</body>
-</html>
     </foreignObject>
 </svg>
