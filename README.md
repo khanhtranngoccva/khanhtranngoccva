@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtranngoccva)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<style>
+  h1 {
+  color: blue;
+}
+</style>
 
 <h1 style="color: blue;">I'm a software engineer, CSS artist, UI/UX designer and content creator from Vietnam. I'm learning web development and building useful software alongside #100devs</h1>
 <img src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/creeper.svg">
