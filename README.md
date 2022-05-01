@@ -6,9 +6,10 @@
 <div>&nbsp;</div>
 
 <div><b>Facts about me:</b></div>
-<div>😄 Pronouns: he/him, they/them</li>
-<div>🌱 Currently learning: Frontend HTML/CSS/JS and Python</li>
-<div>⚔️ Codewars stats: 3 kyu on Python, 4 kyu on JS</li>
+<div>😄 Pronouns: he/him, they/them</div>
+<div>🌱 Currently learning: Frontend HTML/CSS/JS and Python</div>
+<div>⚔️ Codewars stats: 3 kyu on Python, 4 kyu on JS</div>
+<div>💼 Portfolio: https://khanhtranngoccva.github.io</div
 <div>📫 Connect with me on:
   <div>
     <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐦 Twitter: https://twitter.com/khanhtncva</div>
