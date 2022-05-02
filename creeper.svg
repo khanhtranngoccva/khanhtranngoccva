@@ -40,6 +40,7 @@
                         /* 3D Canvas transform-style */
                         .canvas * {
                         transform-style: preserve-3d;
+                        backface-visibility: hidden;
                         }
 
                         /* Auto center the camera */
@@ -103,6 +104,7 @@
 
                         ._reusableBox__boxFace {
                         position: absolute;
+
                         }
 
 
