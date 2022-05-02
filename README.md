@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Khanh! 👋</h1>
 
-<img src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/creeper.svg">
+<!-- <img src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/creeper.svg"> -->
 
 <h3 style="color: blue; border-bottom: none">I'm a software engineer at @100Devs, CSS artist, UI/UX designer and content creator from Vietnam!</h3>
 
