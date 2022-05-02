@@ -1,26 +1,30 @@
-### Hi there 👋
+<h1>Hi there, I'm Khanh! 👋</h1>
 
-<!--
-**khanhtranngoccva/khanhtranngoccva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/creeper.svg">
 
-Here are some ideas to get you started:
+<h3 style="color: blue; border-bottom: none">I'm a software engineer at @100Devs, CSS artist, UI/UX designer and content creator from Vietnam!</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>&nbsp;</div>
+
+<div><b>Facts about me:</b></div>
+<div>😄 Pronouns: he/him, they/them</div>
+<div>🌱 Currently learning: Frontend HTML/CSS/JS and Python</div>
+<div>⚔️ Codewars stats: 3 kyu on Python, 4 kyu on JS</div>
+<div>💼 Portfolio: https://khanhtranngoccva.github.io</div
+<div>📫 Connect with me on:
+  <div>
+    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐦 Twitter: https://twitter.com/khanhtncva</div>
+    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✉️ Gmail: mailto:khanhtranngoccva@gmail.com</div>
+    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌐 LinkedIn: https://linkedin.com/in/khanhtranngoccva</div>
+    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📺 Twitch (upcoming)</div>
+    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✏️ CodePen: codepen.io/khanhtranngoccva</div>
+  </div>
+</div>
+<div>✏️ Passionate about drawing CSS art and helping others</div>
+<div>💻 Currently contributing to XollabOS/talktometechnology</div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhtranngoccva)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtranngoccva)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=khanhtranngoccva">
 
-
-
-<h1 style="color: blue;">I'm a software engineer, CSS artist, UI/UX designer and content creator from Vietnam. I'm learning web development and building useful software alongside #100devs</h1>
-<img src="https://raw.githubusercontent.com/khanhtranngoccva/portfolio/main/testMD.svg">
