@@ -5,7 +5,9 @@
 <h3 style="color: blue; border-bottom: none">I'm a software engineer at @100Devs, CSS artist, UI/UX designer and content creator from Vietnam!</h3>
 
 <div>&nbsp;</div>
-
+<div>
+  <img src="https://www.codewars.com/users/khanhtranngoccva/badges/large">
+</div>
 <div><b>Facts about me:</b></div>
 <div>😄 Pronouns: he/him, they/them</div>
 <div>🌱 Currently learning: Frontend HTML/CSS/JS and Python</div>
@@ -18,6 +20,7 @@
     <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌐 LinkedIn: https://linkedin.com/in/khanhtranngoccva</div>
     <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📺 Twitch (upcoming)</div>
     <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✏️ CodePen: codepen.io/khanhtranngoccva</div>
+    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚔️ Codewars: https://www.codewars.com/users/khanhtranngoccva</div>
   </div>
 </div>
 <div>✏️ Passionate about drawing CSS art and helping others</div>
