@@ -27,7 +27,8 @@
         <img width="300px" src="https://www.codewars.com/users/khanhtranngoccva/badges/large" alt="khanhtranngoccva's Codewars stats">
     </div>
     <div>
-        <img src="https://khanhtranngoccva.github.io/khanhtranngoccva/img/githubStats.svg" alt="khanhtranngoccva's GitHub stats">
+        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=khanhtranngoccva" alt="khanhtranngoccva's GitHub stats"/>
+        <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=khanhtranngoccva" alt="khanhtranngoccva's GitHub streak"/>
     </div>
 </section>
 <p>&nbsp;</p>
