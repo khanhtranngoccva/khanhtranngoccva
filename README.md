@@ -25,7 +25,7 @@
     <h3>Personal stats:</h3>
     <div>
         <img width="300px" src="https://www.codewars.com/users/khanhtranngoccva/badges/large" alt="khanhtranngoccva's Codewars stats">
-    </div3
+    </div>
     <div>
         <img width="300px" src="https://github-readme-stats.vercel.app/api?username=khanhtranngoccva" alt="khanhtranngoccva's GitHub stats"/>
         <img width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=khanhtranngoccva" alt="khanhtranngoccva's GitHub streak"/>
