@@ -13,7 +13,7 @@
         <img src="https://www.codewars.com/users/khanhtranngoccva/badges/large" alt="khanhtranngoccva's Codewars stats">
     </div>
     <div>
-        <img src="githubStats.svg" alt="khanhtranngoccva's GitHub stats">
+        <img src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/githubStats.svg" alt="khanhtranngoccva's GitHub stats">
     </div>
 </section>
 
