@@ -15,7 +15,7 @@
         &nbsp;
         <a href="https://twitter.com/khanhtncva"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/twitter.svg" alt="Twitter"></a>
         &nbsp;
-        <a href=""><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/twitch.svg" alt="Twitch"></a>
+        <a href="#"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/twitch.svg" alt="Twitch"></a>
         &nbsp;
         <a href="https://codewars.com/users/khanhtranngoccva"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/codewars.svg" alt="Codewars"></a>
     </div>
@@ -24,11 +24,11 @@
 <section align="center">
     <h3>Personal stats:</h3>
     <div>
-        <img src="https://www.codewars.com/users/khanhtranngoccva/badges/large" alt="khanhtranngoccva's Codewars stats">
-    </div>
+        <img width="300px" src="https://www.codewars.com/users/khanhtranngoccva/badges/large" alt="khanhtranngoccva's Codewars stats">
+    </div3
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=khanhtranngoccva" alt="khanhtranngoccva's GitHub stats"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhtranngoccva" alt="khanhtranngoccva's GitHub streak"/>
+        <img width="300px" src="https://github-readme-stats.vercel.app/api?username=khanhtranngoccva" alt="khanhtranngoccva's GitHub stats"/>
+        <img width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=khanhtranngoccva" alt="khanhtranngoccva's GitHub streak"/>
     </div>
 </section>
 
