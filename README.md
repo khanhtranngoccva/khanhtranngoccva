@@ -39,8 +39,3 @@
 <div>💼 Portfolio: https://khanhtranngoccva.github.io</div>
 <div>✏️ Passionate about drawing CSS art and helping others</div>
 <div>💻 Currently contributing to XollabOS/talktometechnology</div>
-
-
-
-
-
